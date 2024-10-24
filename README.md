@@ -1,2 +1,2 @@
-# sophtbow.github.io
-My github website
+# Sophia Turnbow Portfolio Website
+https://sophtbow.github.io/ 
